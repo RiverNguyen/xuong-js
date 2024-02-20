@@ -1,5 +1,1 @@
-# ANANAS + REACT
-
-Assignment ECMA
-
-Nguyễn Đình Giang 2024
+# Xưởng JS
