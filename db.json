@@ -1,0 +1,150 @@
+{
+  "products": [
+    {
+      "name": "Vintas Public 2000s - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245521/assignment-ecma/qaxlc8j5kwz7ml2zspd7.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245522/assignment-ecma/y9dhmptcb2vmzztyr7iz.jpg"
+      ],
+      "price": "620000",
+      "description": "Insignia Blue",
+      "id": 1,
+      "category": "1"
+    },
+    {
+      "name": "Vintas Public 2000s - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245527/assignment-ecma/f8pndepo5yxnszfoqz4x.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245528/assignment-ecma/gjznsnpz1r5ed4cgdtqh.jpg"
+      ],
+      "price": "620000",
+      "description": "Brindle",
+      "id": 2,
+      "category": "1"
+    },
+    {
+      "name": "Vintas Public 2000s - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245537/assignment-ecma/oxlkkajnrlyb7qohq07s.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245538/assignment-ecma/o2q5eztt5rsvekr0mocb.jpg"
+      ],
+      "price": "620000",
+      "description": "Caviar Black",
+      "id": 3,
+      "category": "1"
+    },
+    {
+      "name": "Hip Pack - Ananas Global Goal",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245624/assignment-ecma/nnvymrxubbhvewviqyer.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245624/assignment-ecma/w48kmpkpnfszfag7wgty.jpg"
+      ],
+      "price": "275000",
+      "description": "Blue Berry",
+      "id": 4,
+      "category": "2"
+    },
+    {
+      "name": "Hip Pack - Ananas Global Goal",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245751/assignment-ecma/arwb8gcpdihichk1iqmo.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245752/assignment-ecma/y8exkept1cc5ouwvfqgp.jpg"
+      ],
+      "price": "275000",
+      "description": "Purple Sage",
+      "id": 5,
+      "category": "2"
+    },
+    {
+      "category": "2",
+      "name": "Hip Pack - Ananas Global Goal",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245785/assignment-ecma/rv1ggudf6bkzyo7bj2io.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245785/assignment-ecma/sbdnj5tiag5g7eygligd.jpg"
+      ],
+      "price": "275000",
+      "description": "Climbing Ivy",
+      "id": 6
+    },
+    {
+      "name": "Vintas Nauda EXT - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245638/assignment-ecma/njv0dnlkzfgeibuozv6c.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245638/assignment-ecma/zmbcud2ejahyhugmwauj.jpg"
+      ],
+      "price": "650000",
+      "description": "Monk's Robe",
+      "id": 7,
+      "category": "1"
+    },
+    {
+      "name": "Track 6 2.Blues - Low Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245646/assignment-ecma/ecdkzdqxxzo1bchwdkie.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245647/assignment-ecma/c8siyqr30ic4asdrjobd.jpg"
+      ],
+      "price": "1200000",
+      "description": "Navy Blue",
+      "id": 8,
+      "category": "1"
+    },
+    {
+      "name": "Vintas Nauda EXT - High Top",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245630/assignment-ecma/u7v7uqpyhrq1lmghug2y.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708245631/assignment-ecma/pexjwx5ribqbpxufveik.jpg"
+      ],
+      "price": "720000",
+      "description": "Monk's Robe",
+      "id": 9,
+      "category": "1"
+    },
+    {
+      "category": "1",
+      "name": "123",
+      "image": [
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355721/assignment-ecma/obkuiugvfmojmxcaqmfj.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355722/assignment-ecma/taqxbdfna9e8i3wj5gxb.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355723/assignment-ecma/qsfryliukjmbf6wpvu1p.jpg",
+        "https://res.cloudinary.com/dfykg7wtt/image/upload/v1708355724/assignment-ecma/jthdcsgjeal0mqccjhb6.jpg"
+      ],
+      "price": "123",
+      "description": "123",
+      "id": 10
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "label": "Thống kê",
+      "path": "/admin",
+      "icon": "<svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    },
+    {
+      "id": "2",
+      "label": "Sản phẩm",
+      "path": "/admin/products",
+      "icon": "<svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    },
+    {
+      "id": "3",
+      "label": "Tài khoản",
+      "path": "/admin/accounts",
+      "icon": "<svg className=\"bi\"><use xlinkHref=\"#house-fill\" /></svg>"
+    }
+  ],
+  "users": [
+    {
+      "email": "ngiang1309@gmail.com",
+      "password": "$2a$10$1o7BHqQSNHjE5ReAohSI4On/JPLAeY799LJufodKgquDTaD93P4hC",
+      "name": "Nguyễn Đình Giang",
+      "id": 1
+    },
+    {
+      "email": "ngiang175@gmail.com",
+      "password": "$2a$10$03PHMEfICzARsSq/tYrE9.qTcz729Ra8FOX1aJvNSBfz2xc0c959u",
+      "name": "giang",
+      "id": 2
+    }
+  ]
+}
